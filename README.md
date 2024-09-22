@@ -89,3 +89,13 @@ Future versions may incorporate a more user-friendly interface as my skill set e
 ---
 
 Developed with ❤️ by Thai Tran
+
+## Usage Restrictions
+
+⚠️ **IMPORTANT NOTICE**
+
+This project is the intellectual property of Thai Tran and is not open for replication, distribution, or use by others for any reason. All rights are reserved. Unauthorized use, reproduction, or distribution of any part of this project is strictly prohibited.
+
+For inquiries regarding usage permissions, please contact: thaitran196712@gmail.com
+
+![No License](https://img.shields.io/badge/License-All_Rights_Reserved-red.svg)
