@@ -7,6 +7,11 @@
 This personal project application was developed as a final project for the "C++ programming for science" course. It's designed to create customized workout and nutrition plans based on user-specific characteristics.
 The application runs entirely in the terminal, providing a straightforward and efficient user interface.
 
+## Project Structure
+
+- The main source code for this project can be found in: TranMinhThaiFinalProject/TranMinhThaiFinalProject/x64/TranMinhThaiFinalProject.cpp
+- Notice that there are other text files .txt that serves as "database" structure to store user information
+- This project has 2 classes: Nutrition and Workout
 
 ### 🚀 Key Features
 
@@ -16,6 +21,8 @@ The application runs entirely in the terminal, providing a straightforward and e
 - **Nutrition Guidance**: BMI calculation and recommended caloric/macro intakes
 - **Profile Updates**: Users can modify their information for up-to-date plans
 - **Feedback System**: Allows users to submit feedback for improvements
+
+
 
 ## 🛠 How It Works
 
@@ -59,11 +66,7 @@ Current storage method exposes user information. Future improvements could inclu
 - Encrypted storage
 - Consolidated user data file
   
-## Project Structure
 
-- The main source code for this project can be found in: TranMinhThaiFinalProject/TranMinhThaiFinalProject/x64/TranMinhThaiFinalProject.cpp
-- Notice that there are other text files .txt that serves as "data base" structure to store user information
-- This project has 2 classes: Nutrition and Workout
 ## 🙏 Acknowledgements
 
 - Nutritional data: healthline.com
