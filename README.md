@@ -58,7 +58,12 @@ The application runs entirely in the terminal, providing a straightforward and e
 Current storage method exposes user information. Future improvements could include:
 - Encrypted storage
 - Consolidated user data file
+  
+## Project Structure
 
+- The main source code for this project can be found in: TranMinhThaiFinalProject/TranMinhThaiFinalProject/x64/TranMinhThaiFinalProject.cpp
+- Notice that there are other text files .txt that serves as "data base" structure to store user information
+- This project has 2 classes: Nutrition and Workout
 ## 🙏 Acknowledgements
 
 - Nutritional data: healthline.com
