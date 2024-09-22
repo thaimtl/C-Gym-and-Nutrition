@@ -9,7 +9,6 @@ The application runs entirely in the terminal, providing a straightforward and e
 
 ## Project Structure
 
-- The main source code for this project can be found in: TranMinhThaiFinalProject/TranMinhThaiFinalProject/x64/TranMinhThaiFinalProject.cpp
 - Notice that there are other text files .txt that serves as "database" structure to store user information
 - This project has 2 classes: Nutrition and Workout
 
