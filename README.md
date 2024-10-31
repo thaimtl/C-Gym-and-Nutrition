@@ -88,7 +88,7 @@ While it may lack the visual appeal of a modern GUI, this terminal-based design 
 Future versions may incorporate a more user-friendly interface as my skill set expands. For now, consider it a nod to the classic command-line tools that have been the backbone of computing for decades!
 ---
 
-Developed with ❤️ by Thai Tran
+Developed by Thai Tran
 
 ## Usage Restrictions
 
