@@ -71,19 +71,4 @@ Current storage method exposes user information. Future improvements could inclu
 - Nutritional data: healthline.com
 - Workout plans: Based on personal experience and YouTube fitness content
 
-## 💻 Why Terminal-Only?
-
-You might be wondering why this fitness app runs exclusively in the terminal. Here's the backstory:
-
-At the time of development, my expertise was primarily in C++ and command-line interfaces. Web development and GUI creation were skills I had yet to acquire. As a result, I embraced the efficiency and simplicity of a terminal-based application.
-
-This approach offered several advantages:
-1. **Focus on Functionality**: It allowed me to concentrate on the core features and algorithms without the complexities of UI design.
-2. **Rapid Development**: The terminal interface enabled faster prototyping and iteration.
-3. **Resource Efficiency**: The app runs with minimal system resources, making it accessible on various devices.
-4. **Learning Experience**: It provided an excellent opportunity to deepen my understanding of C++ and file I/O operations.
-
-While it may lack the visual appeal of a modern GUI, this terminal-based design emphasizes functionality and demonstrates fundamental programming skills. It's a testament to the principle that effective software doesn't always need a flashy interface to provide value.
-
-Future versions may incorporate a more user-friendly interface as my skill set expands. For now, consider it a nod to the classic command-line tools that have been the backbone of computing for decades!
 ---
