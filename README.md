@@ -1,4 +1,4 @@
-# C-Gym-and-Nutrition 🏋️‍♂️🥗
+# C-Gym-and-Nutrition 
 
 ## Fitness Plan Application
 
@@ -53,20 +53,20 @@ The application runs entirely in the terminal, providing a straightforward and e
 6. **Feedback Submission**:
    - User feedback stored in 'feedback.txt' for review and improvements
 
-## 💡 Technical Notes
+##  Technical Notes
 
 - User information stored in individual text files
 - Nutritional data sourced from healthline.com
 - Workout data based on personal experience and FITT principle
 
-## 🔒 Security Considerations
+##  Security Considerations
 
 Current storage method exposes user information. Future improvements could include:
 - Encrypted storage
 - Consolidated user data file
   
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - Nutritional data: healthline.com
 - Workout plans: Based on personal experience and YouTube fitness content
@@ -87,15 +87,3 @@ While it may lack the visual appeal of a modern GUI, this terminal-based design 
 
 Future versions may incorporate a more user-friendly interface as my skill set expands. For now, consider it a nod to the classic command-line tools that have been the backbone of computing for decades!
 ---
-
-Developed by Thai Tran
-
-## Usage Restrictions
-
-⚠️ **IMPORTANT NOTICE**
-
-This project is the intellectual property of Thai Tran and is not open for replication, distribution, or use by others for any reason. All rights are reserved. Unauthorized use, reproduction, or distribution of any part of this project is strictly prohibited.
-
-For inquiries regarding usage permissions, please contact: thaitran196712@gmail.com
-
-![No License](https://img.shields.io/badge/License-All_Rights_Reserved-red.svg)
